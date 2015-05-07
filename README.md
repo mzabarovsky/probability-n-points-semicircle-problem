@@ -1,2 +1,2 @@
-# semicircle_points_probability
-script solves a problem of probability N points lying on the same semicircle
+# probability n points semicircle problem
+script computes a probability that n points on a circle are in one semicircle
